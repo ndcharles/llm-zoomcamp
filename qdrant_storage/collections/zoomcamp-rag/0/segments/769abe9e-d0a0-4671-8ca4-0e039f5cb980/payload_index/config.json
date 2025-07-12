@@ -1,1 +1,1 @@
-{"indexed_fields":{},"skip_rocksdb":null}
+{"indexed_fields":{"course":"keyword"},"skip_rocksdb":null}
